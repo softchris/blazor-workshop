@@ -1,4 +1,4 @@
-# Blazor - app building workshop
+# Blazor - pizza workshop
 
 Welcome to the Blazor app building workshop! 
 
