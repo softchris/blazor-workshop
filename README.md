@@ -1,4 +1,4 @@
-# Blazor - app building workshop
+# Blazor - app building workshop 
 
 Welcome to the Blazor app building workshop! 
 
