@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<TargetFramework>$(TargetFrameworkVersion)</TargetFramework>
+		<TargetFramework>net8.0</TargetFramework>
 		<RootNamespace>BlazingPizza</RootNamespace>
 		<ImplicitUsings>true</ImplicitUsings>
 		<Nullable>enable</Nullable>
