@@ -1,4 +1,4 @@
-# Blazor - app building workshop
+# Blazor - app building workshop, now adding Bruno..
 
 Welcome to the Blazor app building workshop! 
 
